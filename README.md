@@ -1,6 +1,7 @@
 # lb -- Luke's Blog Script | 00xBADC0DE 
 
 Blogs and RSS feeds in less than 100 lines of shell script, actually, right now, less than 80.  `lb` stands for whatever. Maybe "Luke's blog", maybe "lightweight blog", maybe "less bloat", doesn't matter that much.
+This fork works great on mobile devices. A minified CSS version is also added to improve your score on PageInsights. This blog is extremely fast, even on low-budget hosts. A 100% score should be attainable. 
 
 [Video Showcase](https://www.youtube.com/watch?v=S1WQlr42xDM)
 
