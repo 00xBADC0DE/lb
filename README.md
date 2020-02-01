@@ -1,6 +1,8 @@
 # lb -- Luke's Blog Script | 00xBADC0DE 
 
 Blogs and RSS feeds in less than 100 lines of shell script, actually, right now, less than 80.  `lb` stands for whatever. Maybe "Luke's blog", maybe "lightweight blog", maybe "less bloat", doesn't matter that much.
+
+## Now Mobile Friendly
 This fork works great on mobile devices. A minified CSS version is also added to improve your score on PageInsights. This blog is extremely fast, even on low-budget hosts. A 100% score should be attainable. 
 
 [Video Showcase](https://www.youtube.com/watch?v=S1WQlr42xDM)
@@ -9,7 +11,7 @@ This fork works great on mobile devices. A minified CSS version is also added to
 
 `lb` is an extremely small shell script that lets you write blog posts and will format them in all the ways you could ever want. Here's what it will produce:
 
-- A Rolling Blog Page. See [my own Rolling Page](https://lukesmith.xyz/blog.html) as an example.
+- A Rolling Blog Page. See [Luke's own Rolling Page](https://lukesmith.xyz/blog.html) as an example.
 - A list of all blog entries with dates: [Blog List File](https://lukesmith.xyz/blogindex.html).
 - All your blog posts appear as standalone entries/pages, for example [like this one](https://lukesmith.xyz/blog/the-real-bronze-age-mindset.html).
 - These standalone files exist in a `blog/` directory, which you can allow to be browsed manually via your Apache web server as I have [here](http://lukesmith.xyz/blog).
@@ -20,7 +22,7 @@ This fork works great on mobile devices. A minified CSS version is also added to
 
 ## Usage
 
-`lb` commands are all one letter cause I'm lazy. They all stand for something though.
+`lb` commands are all one letter. They all stand for something though.
 
 ```sh
 ./lb n(ew)	# Make a new blog post draft.
