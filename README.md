@@ -8,6 +8,7 @@ This fork works great on mobile devices. A minified CSS version is also added to
 ## Some notes:
 1. Style.css contains the editable style of the theme and will be used on all pages. If you want to use the minified version, rename style.min.css to style.css or use something like yui-compressor in order to minify your own css. 
 2. The theme is customized. If you want more themes, hit me up!
+3. I may create a PHP based version of this blog, e.g. to automatically add all the stuff between the header tags. 
 
 [Video Showcase](https://www.youtube.com/watch?v=S1WQlr42xDM)
 
