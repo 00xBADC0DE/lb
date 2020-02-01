@@ -1,4 +1,4 @@
-# lb -- Luke's Blog Script
+# lb -- Luke's Blog Script | 00xBADC0DE 
 
 Blogs and RSS feeds in less than 100 lines of shell script, actually, right now, less than 80.  `lb` stands for whatever. Maybe "Luke's blog", maybe "lightweight blog", maybe "less bloat", doesn't matter that much.
 
