@@ -1,5 +1,5 @@
-#Only use this if you are running on an Apache webserver. If you are not sure, just ignore this file. It is meant for gzipping your pages for improved performance. mod_deflate.c and mod_expires.c are required!
-
+# Only use this if you are running on an Apache webserver. If you are not sure, just ignore this file. It is meant for gzipping your pages for improved performance. mod_deflate.c and mod_expires.c are required!
+# Rename this to .htaccess if you want to use this. You can also use it for other websites.
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
