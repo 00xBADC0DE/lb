@@ -3,12 +3,14 @@
 Blogs and RSS feeds in less than 100 lines of shell script, actually, right now, less than 80.  `lb` stands for whatever. Maybe "Luke's blog", maybe "lightweight blog", maybe "less bloat", doesn't matter that much.
 
 ## Now Mobile Friendly
-This fork works great on mobile devices. A minified CSS version is also added to improve your score on PageInsights. This blog is extremely fast, even on low-budget hosts. A 100% score speed should be attainable.
+This fork works great on mobile devices. A minified CSS version is also added to improve your score on PageInsights. This blog is extremely fast, even on low-budget hosts. A 100% score speed should be attainable. 
 
 ## Some notes:
 1. Style.css contains the editable style of the theme and will be used on all pages. If you want to use the minified version, rename style.min.css to style.css or use something like yui-compressor in order to minify your own css. 
 2. The theme is customized. If you want more themes, hit me up!
 3. I may create a PHP based version of this blog, e.g. to automatically add all the stuff between the header tags. 
+4. Some Bootstrap 4+ css code was used in the css file. 
+5. Normalize.css was added for consistent rendering across different browsers
 
 [Video Showcase](https://www.youtube.com/watch?v=S1WQlr42xDM)
 
