@@ -11,6 +11,7 @@ This fork works great on mobile devices. A minified CSS version is also added to
 3. I may create a PHP based version of this blog, e.g. to automatically add all the stuff between the header tags. 
 4. Some Bootstrap 4+ css code was used in the css file. All other bloat was removed for further optimization. 
 5. Normalize.css was added for consistent rendering across different browsers with some elements removed. 
+6. Do not clone the blog folder from github. It will be set up automatically. 
 
 [Video Showcase](https://www.youtube.com/watch?v=S1WQlr42xDM)
 
